@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AhmedSkully
+- 👀 I’m interested in coding with html, python, some css
+- 🌱 I’m currently learning css and after that javascript
+- 💞️ I’m looking to collaborate on a web development project
+- 📫 How to reach me by my number +966 570982116 
